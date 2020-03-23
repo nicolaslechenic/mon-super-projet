@@ -1,3 +1,8 @@
+---
+name: Feature
+about: Proposer une fonctionnalité
+---
+
 ### User Story
 
 > Commencer par une User Story afin de comprendre rapidement le contexte, la fonction et le bénéfice de votre feature. Structure d'une User Story : En tant que ..., je souhaite ... afin de ...

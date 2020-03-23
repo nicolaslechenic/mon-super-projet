@@ -1,3 +1,8 @@
+---
+name: Bug
+about: Créer un rapport de bug
+---
+
 ### Description
 
 > Décrire le bug de manière concise...
